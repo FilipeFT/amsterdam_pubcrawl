@@ -9,6 +9,6 @@ Several pubs, bars and cafes serving beers and snacks in the city were visited, 
 
 It made me curious: which pubs in the city, open at the moment, are also represented in this guide from half a century ago?
 
-So I decided to investigate! Current plan is to publish the reports here in markdown and use Huge to create a static website.
+So I decided to investigate! Current plan is to publish the reports here in markdown and use Hugo to create a static website.
 
 Stay tunned!
